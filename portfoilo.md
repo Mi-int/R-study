@@ -21,9 +21,9 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [동네 추천하는 남자](https://github.com/Mi-int)
+### 1. [동네 추천하는 남자](https://github.com/Mi-int/R-Base/blob/main/DongChu)
 >좋은 동네 대한 사회적 인식 분석 (팀 프로젝트)  
->개발 기간: 2022.2.18 ~ 2019.4.5  
+>개발 기간: 2022.10 ~ 2022.12  
 >  
 >기술 스택:  
 >R  
