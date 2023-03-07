@@ -4,15 +4,13 @@
 
 ## :pushpin: Intro
 가능한 R 분석
-1.
-2.
-3.
-4.
-5.
+1. [상관/회귀/분산분석](https://github.com/Mi-int/R-Base/blob/main/R-3.R)
+2. [범주형 자료 분석](https://github.com/Mi-int/R-Base/blob/main/R-4.R)
+3. [고급 회귀 분석](https://github.com/Mi-int/R-Base/commit/1bf9e31a06861b0f2a1e54493f0d41dd244570c5)
+4. [베이즈 통계와 다층모형](https://github.com/Mi-int/R-Base/commit/785c6689244a232bd1cf960826909412f194fc65)
+5. [의사결정나무와 앙상블](https://github.com/Mi-int/R-Base/blob/main/R-8.R)
 6.
 7.
-8.
-
 
 </br>
 
