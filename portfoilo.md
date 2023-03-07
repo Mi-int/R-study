@@ -25,9 +25,8 @@
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2022.6.1 ~ 2022.6.8  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>기술 스택:   R
+>
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
@@ -36,8 +35,8 @@
 >좋은 동네 대한 사회적 인식 분석 (팀 프로젝트)  
 >개발 기간: 2022.10 ~ 2022.12  
 >  
->기술 스택:  
->R  
+>기술 스택:   R
+>
 >  
 >[프로젝트 상세 설명](https://github.com/Mi-int) 참고
 
