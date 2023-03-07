@@ -21,7 +21,18 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [동네 추천하는 남자](https://github.com/Mi-int/R-Base/blob/main/DongChu)
+### 1. [날씨 변수 간 상관분석과 ARIMA모델을 활용한 기온 예측](https://github.com/Mi-int/R-Base/blob/main/Seoul%20Temp.R)
+>두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+>개발 기간: 2022.6.1 ~ 2022.6.8  
+>  
+>기술 스택:  
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>  
+>[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+
+---
+### 2. [동네 추천하는 남자](https://github.com/Mi-int/R-Base/blob/main/DongChu)
 >좋은 동네 대한 사회적 인식 분석 (팀 프로젝트)  
 >개발 기간: 2022.10 ~ 2022.12  
 >  
@@ -31,19 +42,6 @@
 >[프로젝트 상세 설명](https://github.com/Mi-int) 참고
 
 ---
-
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
-
----
-
 ### 3. [세 번째 프로젝트]()
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
