@@ -21,7 +21,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [날씨 변수 간 상관분석과 ARIMA모델을 활용한 기온 예측](https://github.com/Mi-int/R-Base/blob/main/Seoul%20Temp.R)
+### 1. [날씨 변수 간 상관분석과 ARIMA모델을 활용한 서울 기온 예측](https://github.com/Mi-int/R-Base/blob/main/Seoul%20Temp.R)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2022.6.1 ~ 2022.6.8  
 >  
