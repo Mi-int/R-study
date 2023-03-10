@@ -3,6 +3,11 @@
 </br>
 
 ## :pushpin: Intro
+
+### :book: Skill 
+
+R / SPSS
+
 가능한 R 분석
 1. [상관/회귀/분산분석](https://github.com/Mi-int/R-Base/blob/main/R-3.R)
 2. [범주형 자료 분석](https://github.com/Mi-int/R-Base/blob/main/R-4.R)
